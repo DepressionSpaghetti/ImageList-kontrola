@@ -1,0 +1,11 @@
+C:\Users\Piero\Documents\School\NiOP\ImageList kontrola\bin\Debug\ImageList kontrola.exe.config
+C:\Users\Piero\Documents\School\NiOP\ImageList kontrola\bin\Debug\ImageList kontrola.exe
+C:\Users\Piero\Documents\School\NiOP\ImageList kontrola\bin\Debug\ImageList kontrola.pdb
+C:\Users\Piero\Documents\School\NiOP\ImageList kontrola\obj\Debug\ImageList kontrola.csproj.AssemblyReference.cache
+C:\Users\Piero\Documents\School\NiOP\ImageList kontrola\obj\Debug\ImageList kontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\Piero\Documents\School\NiOP\ImageList kontrola\obj\Debug\ImageList_kontrola.Form1.resources
+C:\Users\Piero\Documents\School\NiOP\ImageList kontrola\obj\Debug\ImageList_kontrola.Properties.Resources.resources
+C:\Users\Piero\Documents\School\NiOP\ImageList kontrola\obj\Debug\ImageList kontrola.csproj.GenerateResource.cache
+C:\Users\Piero\Documents\School\NiOP\ImageList kontrola\obj\Debug\ImageList kontrola.csproj.CoreCompileInputs.cache
+C:\Users\Piero\Documents\School\NiOP\ImageList kontrola\obj\Debug\ImageList kontrola.exe
+C:\Users\Piero\Documents\School\NiOP\ImageList kontrola\obj\Debug\ImageList kontrola.pdb
